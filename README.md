@@ -6,6 +6,8 @@ A classic **Snake Game** built using **HTML, SCSS, and JavaScript** — with smo
 
 ---
 
+https://github.com/user-attachments/assets/84d5eee9-e20e-4ca3-be07-47ad28dadec2
+
 ## 🎮 Features
 
 - 🟢 Smooth snake movement  
